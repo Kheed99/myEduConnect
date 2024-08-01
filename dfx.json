@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "MyEduConnect_backend": {
+      "main": "src/MyEduConnect_backend/main.mo",
+      "type": "motoko"
+    },
+    "MyEduConnect_frontend": {
+      "dependencies": [
+        "MyEduConnect_backend"
+      ],
+      "source": [
+        "src/MyEduConnect_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "MyEduConnect_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
