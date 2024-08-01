@@ -21,6 +21,7 @@ Blockchain-Powered Authentication: Secure and transparent authentication process
 Payment System: Secure and instant payment verification with printable receipts.
 
 University Management: Universities can register, manage courses, and students, with options to offer Postgraduate, Undergraduate, and Short Courses.
+
 Technology Stack
 
 Frontend: ReactJS, Tailwind CSS
