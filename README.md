@@ -5,8 +5,11 @@ Educonnect is a next-generation online learning platform that integrates AI and 
 Features
 Multi-User Sign Up & Login: Separate sign-up and login forms for Students, Tutors, Institutions, Employers, and Parents.
 Course Catalog: Browse and filter courses across various subjects and levels.
+
 Student Dashboard: Track progress, view course recommendations, and engage in a gamified learning experience with incentives and badges.
+
 Course Management System: Institutions and Tutors can manage courses, monitor student performance, and access analytics.
+
 Progress Management System: Parents can monitor their children's performance and communicate with tutors.
 Labor Management Information System: Employers can manage job listings and get AI-driven candidate recommendations.
 Blockchain-Powered Authentication: Secure and transparent authentication processes using blockchain technology.
